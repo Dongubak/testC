@@ -31,11 +31,10 @@ public:
     }
 };
 
+
 int main(void) {
     using namespace std;
 
-    Person p1 = Person("lee", 3);
-    p1.getInfo();
 
     
     return 0;
